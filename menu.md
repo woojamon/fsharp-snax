@@ -6,3 +6,11 @@
 Grumpy Cat
 
 ![](photo.jpeg)
+
+> and now for the next show
+
+```c#
+this is some code
+```
+
+j
