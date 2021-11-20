@@ -5,6 +5,7 @@
     
 Grumpy Cat
 
+<img src="photo.jpeg" style="border:5px solid red"/>
 ![](photo.jpeg)
 
 > and now for the next show
@@ -13,4 +14,4 @@ Grumpy Cat
 this is some code
 ```
 
-j
+<ul><li style="color:red; border-left: 1px solid red; padding-left:5px;">wow</li></ul>
